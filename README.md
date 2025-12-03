@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Barnabás!</h1>
 
-<h4 align="center">Computer Science Engineering student at Obuda University. Currently focusing on .NET Core development. I use Visual Studio and VS Code.</h4>
+<h4 align="center">Computer Science Engineering student at Obuda University. Currently focusing on .NET Core development.</h4>
 
 <h2 align="center">Skills &amp; Tools</h2>
 
