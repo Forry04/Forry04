@@ -30,7 +30,7 @@
       <td align="center" style="border:1px solid #e5e7eb;" width="180">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" height="32"><br>
         <strong>Unity</strong><br>
-        <small>Editor</small>
+        <small>Engine</small>
       </td>
     </tr>
   </table>
