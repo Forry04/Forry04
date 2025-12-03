@@ -15,7 +15,7 @@
       <td align="center" style="border:1px solid #e5e7eb;" width="180">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" height="32"><br>
         <strong>Visual Studio</strong><br>
-        <small>2022</small>
+        <small>2022 &amp; 2026</small>
       </td>
       <td align="center" style="border:1px solid #e5e7eb;" width="180">
         <img src="https://media1.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat coding" height="90"><br>
