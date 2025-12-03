@@ -20,12 +20,12 @@
       <td align="center" style="border:1px solid #e5e7eb;" width="180">
         <img src="https://media1.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cat coding" height="90"><br>
         <strong>Cat Coding</strong><br>
-        <small>GIF</small>
+        <small></small>
       </td>
       <td align="center" style="border:1px solid #e5e7eb;" width="180">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" height="32"><br>
         <strong>VS Code</strong><br>
-        <small>Extensions</small>
+        <small>Editor</small>
       </td>
       <td align="center" style="border:1px solid #e5e7eb;" width="180">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" height="32"><br>
